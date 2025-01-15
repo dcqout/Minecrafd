@@ -1,0 +1,13 @@
+{
+  "attribute.name.max_combo": "Combo",
+  "item.dcq.echo_cluster": "Echo Cluster",
+  "item.dcq.short_wooden_sword": "Wooden Sword (Short)",
+  "item.dcq.short_stone_sword": "Stone Sword (Short)",
+  "item.dcq.short_iron_sword": "Iron Sword (Short)",
+  "item.dcq.short_golden_sword": "Golden Sword (Short)",
+  "item.dcq.short_diamond_sword": "Diamond Sword (Short)",
+  "item.dcq.short_netherite_sword": "Netherite Sword (Short)",
+  "item.dcq.golden_hammer": "Golden Hammer",
+  "item.dcq.diamond_hammer": "Diamond Hammer",
+  "item.dcq.netherite_hammer": "Netherite Hammer"
+}

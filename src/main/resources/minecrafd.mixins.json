@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "package": "com.dcqout.Mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "AnvilMixin",
+    "AnvilScreenMixin",
+    "ReDeepslateMixin",
+    "PotionsMixin",
+    "AttributeMixin",
+    "GuiGraphMixin",
+    "ItemStackMixin",
+    "LivingEntityMixin",
+    "PlayerMixin",
+    "TabMixin",
+    "TabsBuilderMixin",
+    "TabsMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

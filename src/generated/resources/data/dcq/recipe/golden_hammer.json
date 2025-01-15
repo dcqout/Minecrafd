@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "#minecraft:gold_tool_materials",
+    "Z": "minecraft:resin_brick"
+  },
+  "pattern": [
+    "XZX",
+    "XZX",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "dcq:golden_hammer"
+  }
+}
